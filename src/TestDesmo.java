@@ -12,3 +12,5 @@
 	
 
 }
+
+// Answer:- b. Will throw a NoSuchMethod error at runtime.
