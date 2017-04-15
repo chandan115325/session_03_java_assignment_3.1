@@ -13,4 +13,4 @@
 
 }
 
-// Answer:- b. Will throw a NoSuchMethod error at runtime.
+// Answer:- e. It will run and print "10" and then crash with an error
